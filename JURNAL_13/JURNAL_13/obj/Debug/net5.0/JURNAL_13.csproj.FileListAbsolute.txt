@@ -1,0 +1,5 @@
+D:\KPL_7\KelompokKPL\JURNAL_13\JURNAL_13\obj\Debug\net5.0\JURNAL_13.csprojAssemblyReference.cache
+D:\KPL_7\KelompokKPL\JURNAL_13\JURNAL_13\obj\Debug\net5.0\JURNAL_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL_7\KelompokKPL\JURNAL_13\JURNAL_13\obj\Debug\net5.0\JURNAL_13.AssemblyInfoInputs.cache
+D:\KPL_7\KelompokKPL\JURNAL_13\JURNAL_13\obj\Debug\net5.0\JURNAL_13.AssemblyInfo.cs
+D:\KPL_7\KelompokKPL\JURNAL_13\JURNAL_13\obj\Debug\net5.0\JURNAL_13.csproj.CoreCompileInputs.cache
